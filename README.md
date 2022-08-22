@@ -3,7 +3,7 @@
  🔭 I'm currently working on my skills @microverseinc.
  <br>🤝 I enjoy learning while collaborating with peers.
  <br>🌱 I look forward to exploring new frontiers as technologies evolve.
- <br>💬 Engage with me on any tech-related stuff.
+ <br>💬 Engage me on any tech-related stuff.
  <br>📬 I am available via: mindprepopps@gmail.com
  <br>👯 Pronouns: He/His/Him.
  <br>⚡ Fun fact: I am addicted to my computer and likes to talk out loud when stuck.
