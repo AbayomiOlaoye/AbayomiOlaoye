@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Welcome,+and+thank+you+for+visiting!;I+am+Oluwatoyin,+a+Full+Stack+Developer;and+I+am+open+to+OPPORTUNITIES.)](https://git.io/typing-svg)
 <br><hr>
 
-🔭 I'm currently working on my skills @microverseinc.
+🔭 I'm constantly learning and currently open for job opportunities.
  <br>  🤝  I enjoy learning while collaborating with peers.
  <br>  🌱  I look forward to exploring new frontiers as technologies evolve.
  <br>  💬  Engage me on any tech-related stuff.
