@@ -25,11 +25,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Featured Repositories
-[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=to-do_app)](https://github.com/AbayomiOlaoye/to-do_app)
-[![iRead](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=iRead)](https://github.com/AbayomiOlaoye/iRead)
+[![Budget Wise](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=budget_wise_app)](https://github.com/AbayomiOlaoye/budget_wise_app/)
+[![Covid Info](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=covid-info)](https://github.com/AbayomiOlaoye/covid-info)
 [![Youth n Tech Conference](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=Youth-In-Tech-Project)](https://github.com/AbayomiOlaoye/Youth-In-Tech-Project)
 [![Book Tracker](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=book_tracker)](https://github.com/AbayomiOlaoye/book_tracker)
-[![WorkFolio](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=work-folio)](https://github.com/AbayomiOlaoye/work-folio)
-[![Persona Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=Persona-Portfolio)](https://github.com/AbayomiOlaoye/Persona-Portfolio)
+[![World Vision Clinic](https://github-readme-stats.vercel.app/api/pin/?username=MudasirSherwani&repo=Book-Appointment-Front-End)](https://github.com/MudasirSherwani/Book-Appointment-Front-End)
 [![ScoreBoard](https://github-readme-stats.vercel.app/api/pin/?username=AbayomiOlaoye&repo=scoreboard)](https://github.com/AbayomiOlaoye/scoreboard)
 
