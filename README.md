@@ -27,7 +27,7 @@
 ## Featured/Pinned Repositories
 [![Budget Wise](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=budget_wise_app)](https://github.com/AbayomiOlaoye/budget_wise_app/)
 [![Covid Info](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=covid-info)](https://github.com/AbayomiOlaoye/covid-info)
-[![To-Do App](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=to-do_app)](https://github.com/AbayomiOlaoye/to-do_app)
+[![BookStore CMS](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=bookstore-app)](https://github.com/AbayomiOlaoye/bookstore-app)
 [![Book Tracker](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=book_tracker)](https://github.com/AbayomiOlaoye/book_tracker)
 [![World Vision Clinic](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=Book-Appointment-Front-End)](https://github.com/AbayomiOlaoye/Book-Appointment-Front-End)
 [![ScoreBoard](https://github-readme-stats.vercel.app/api/pin/?username=abayomiolaoye&repo=scoreboard)](https://github.com/AbayomiOlaoye/scoreboard)
