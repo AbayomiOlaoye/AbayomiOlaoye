@@ -8,7 +8,7 @@
  <br>  💬  Engage me on any tech-related stuff.
  <br> 📬  I am available via: mindprepopps@gmail.com
  <br> 👯  Pronouns: He/His/Him.
- <br> ⚡   Fun fact: I am addicted to my computer and likes to talk out loud when stuck.
+ <br> ⚡   Fun fact: I am addicted to my computer and like to talk out loud when stuck.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/olaoye.abayomi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwatoyinolaoye) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mindprepopps) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@olaoyeelijah) 
