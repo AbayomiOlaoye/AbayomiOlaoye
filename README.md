@@ -1,4 +1,6 @@
 ## <h1 align='center' style ='margin:30px'>👋🏼 Hi there!</h1><br>
+![image](https://github.com/AbayomiOlaoye/AbayomiOlaoye/assets/99715640/97740d4c-1436-410c-a709-b9c6080a21fd)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Welcome,+and+thank+you+for+visiting!;I+am+Oluwatoyin,+a+Full+Stack+Developer;and+I+am+open+to+OPPORTUNITIES.)](https://git.io/typing-svg)
 <br><hr>
 
