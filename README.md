@@ -7,7 +7,7 @@
 🔭 I'm constantly learning and currently open for job opportunities.
  <br>  🤝  I enjoy learning while collaborating with peers.
  <br>  🌱  I look forward to exploring new frontiers as technologies evolve.
- <br>  💬  Engage me on any tech-related stuff.
+ <br>  💬  Engage me on any tech-related matter.
  <br> 📬  I am available via: mindprepopps@gmail.com
  <br> 👯  Pronouns: He/His/Him.
  <br> ⚡   Fun fact: I am addicted to my computer and like to talk out loud when stuck.
